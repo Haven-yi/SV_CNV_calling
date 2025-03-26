@@ -14,8 +14,10 @@ The tutorial covers the following steps:
 
 
 Required Files:
-Alignment file: sample.bam (BAM format, containing the alignment results)
-Reference genome file: reference.fasta (FASTA format, the reference genome for SV calling)
+Alignment file: sample.bam (BAM format, containing the alignment results)  
+
+Reference genome file: reference.fasta (FASTA format, the reference genome for SV calling)  
+
 Mappability map file: map.fa.gz 
 
 ## Step 1: SV Calling with Delly
